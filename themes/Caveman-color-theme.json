@@ -1,0 +1,143 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+	"name": "Caveman",
+	"type": "dark",
+	"colors": {
+		// Activity Bar
+		// https://code.visualstudio.com/api/references/theme-color#activity-bar
+		"activityBar.background": "#000",
+		"activityBar.inactiveForeground": "#666",
+		"activityBar.foreground": "#ccc",
+		// Editor Groups & Tabs
+		// https://code.visualstudio.com/api/references/theme-color#editor-groups-tabs
+		"editorGroupHeader.tabsBackground": "#000",
+		"tab.inactiveBackground": "#000",
+		"tab.activeBackground": "#222",
+		"tab.hoverBackground": "#444",
+		"tab.inactiveForeground": "#999",
+		"tab.activeForeground": "#fff",
+		"tab.border": "#000",
+		// Editor colors
+		// https://code.visualstudio.com/api/references/theme-color#editor-colors
+		"editor.foreground": "#fff",
+		"editor.background": "#222",
+		"editor.selectionBackground": "#444",
+		"editorUnnecessaryCode.opacity": "#000000ee",
+		// Status Bar colors
+		// https://code.visualstudio.com/api/references/theme-color#status-bar-colors
+		"statusBar.background": "#000",
+		"statusBar.foreground": "#999",
+		// Breadcrumbs colors
+		// https://code.visualstudio.com/api/references/theme-color#breadcrumbs-colors
+		"breadcrumb.background": "#222",
+		"breadcrumb.foreground": "#999",
+	},
+	"tokenColors": [
+		{
+			"name": "Literal",
+			"scope": [
+				"constant.character",
+				"constant.language",
+				"constant.numeric",
+				"constant.regexp",
+				"constant.rgb-value",
+				"string",
+			],
+			"settings": {
+				"foreground": "#f66",
+			}
+		},
+		{
+			"name": "Variable",
+			"scope": [
+				"comment.char.underscore",
+				"meta.function-call.arguments",
+				"string.other",
+				"support.type.property-name",
+				"variable.parameter",
+				"variable.other",
+			],
+			"settings": {
+				"foreground": "#fff",
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": [
+				"keyword.control",
+				"keyword.other",
+				"storage.modifier",
+				"storage.type",
+				"variable.language",
+			],
+			"settings": {
+				"foreground": "#cf6",
+			}
+		},
+		{
+			"name": "Function",
+			"scope": [
+				"entity.name.function",
+				"entity.name.method",
+				"meta.function-call.generic",
+				"support.function",
+			],
+			"settings": {
+				"foreground": "#ff6",
+			}
+		},
+		{
+			"name": "Type",
+			"scope": [
+				"entity.name.class",
+				"entity.name.tag",
+				"entity.name.type",
+				"entity.name.type.primitive",
+				"support.class",
+			],
+			"settings": {
+				"foreground": "#fc6",
+			}
+		},
+		{
+			"name": "Comment",
+			"scope": [
+				"comment",
+				"string.quoted.docstring",
+			],
+			"settings": {
+				"foreground": "#aaa",
+			}
+		},
+	],
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		// https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide
+		// Literals
+		"string": "#f66",
+		"number": "#f66",
+		"regexp": "#f66",
+		// Variable
+		"parameter": "#fff",
+		"variable": "#fff",
+		"property": "#fff",
+		// Keywords
+		"keyword": "#cf6",
+		// Fuctions
+		"function": "#ff6",
+		"member": "#ff6",
+		"macro": "#ff6",
+		// Types
+		"class": "#fc6",
+		"enum": "#fc6",
+		"interface": "#fc6",
+		"struct": "#fc6",
+		"typeParameter": "#fc6",
+		"enumMember": "#fc6",
+		"typeAlias": "#fc6",
+		"builtinType": "#fc6",
+		// Comments
+		"comment": "#aaa",
+		"*.injected": "#aaa",
+	},
+}

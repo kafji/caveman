@@ -1,0 +1,32 @@
+{
+    "name": "caveman",
+    "displayName": "caveman",
+    "description": "Vscode theme primarily for highlighting Rust code.",
+    "version": "0.0.1",
+    "publisher": "kafji",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "license": "SEE LICENSE IN license.txt",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "rust"
+    ],
+    "preview": true,
+    "contributes": {
+        "themes": [
+            {
+                "label": "Caveman",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Caveman-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kafji/caveman.git"
+    },
+    "homepage": "https://github.com/kafji/caveman"
+}
