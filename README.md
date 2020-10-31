@@ -1,5 +1,6 @@
-# [Caveman](https://github.com/kafji/caveman)
+# Caveman
 
+[![Source](https://img.shields.io/badge/Source-666)](https://github.com/kafji/caveman)
 [![Changelog](https://img.shields.io/badge/Changelog-666)](CHANGELOG.md)
 
 [Vscode](https://code.visualstudio.com/) theme primarily for highlighting Rust code. Loosely inspired by Monokai & Zenburn.
