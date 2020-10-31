@@ -27,6 +27,8 @@
 		// https://code.visualstudio.com/api/references/theme-color#status-bar-colors
 		"statusBar.background": "#000",
 		"statusBar.foreground": "#999",
+		"statusBar.debuggingBackground": "#000",
+		"statusBar.debuggingForeground": "#999",
 		// Breadcrumbs colors
 		// https://code.visualstudio.com/api/references/theme-color#breadcrumbs-colors
 		"breadcrumb.background": "#222",
