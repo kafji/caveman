@@ -22,6 +22,9 @@
 		"editor.foreground": "#fff",
 		"editor.background": "#222",
 		"editor.selectionBackground": "#444",
+		"editor.selectionHighlightBackground": "#44444488",
+		"editor.wordHighlightBackground": "#00000000",
+		"editor.wordHighlightStrongBackground": "#00000000",
 		"editorUnnecessaryCode.opacity": "#000000ee",
 		// Status Bar colors
 		// https://code.visualstudio.com/api/references/theme-color#status-bar-colors
