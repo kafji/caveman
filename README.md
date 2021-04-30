@@ -30,7 +30,7 @@ Install from [Marketplace](https://marketplace.visualstudio.com/items?itemName=k
 
 ### Publish
 
-```
+```bash
 npm install -g vsce
 # Get token from https://code.visualstudio.com/api/working-with-extensions/publishing-extension#get-a-personal-access-token
 vsce publish
