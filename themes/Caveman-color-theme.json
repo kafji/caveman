@@ -53,7 +53,7 @@
 			}
 		},
 		{
-			"name": "Variable",
+			"name": "Variable", // and operator
 			"scope": [
 				"comment.char.underscore",
 				"meta.function-call.arguments",
@@ -61,6 +61,7 @@
 				"support.type.property-name",
 				"variable.parameter",
 				"variable.other",
+				"keyword.operator",
 			],
 			"settings": {
 				"foreground": "#fff",
@@ -74,6 +75,7 @@
 				"storage.modifier",
 				"storage.type",
 				"variable.language",
+				"keyword",
 			],
 			"settings": {
 				"foreground": "#cf6",
@@ -99,6 +101,7 @@
 				"entity.name.type",
 				"entity.name.type.primitive",
 				"support.class",
+				"storage.type",
 			],
 			"settings": {
 				"foreground": "#fc6",
@@ -130,7 +133,7 @@
 		"keyword": "#cf6",
 		// Fuctions
 		"function": "#ff6",
-		"member": "#ff6",
+		"method": "#ff6",
 		"macro": "#ff6",
 		// Types
 		"class": "#fc6",

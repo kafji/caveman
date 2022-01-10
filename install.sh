@@ -1,1 +1,1 @@
-vsce package && code --install-extension ./caveman-0.0.4.vsix --force
+vsce package && code --install-extension ./caveman-0.0.6.vsix --force

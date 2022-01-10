@@ -1,22 +1,10 @@
 # Caveman
 
-[![Marketplace](https://img.shields.io/badge/Marketplace-666)](https://marketplace.visualstudio.com/items?itemName=kafji.caveman)
-[![Source](https://img.shields.io/badge/Source-666)](https://github.com/kafji/caveman)
-[![Changelog](https://img.shields.io/badge/Changelog-666)](CHANGELOG.md)
+[![Marketplace](https://img.shields.io/badge/Marketplace-informational)](https://marketplace.visualstudio.com/items?itemName=kafji.caveman)
 
 [Vscode](https://code.visualstudio.com/) theme primarily for highlighting Rust code. Loosely inspired by Monokai & Zenburn.
 
 ![Preview](preview.png)
-
-## Language Support
-
-Works great on:
-
-- Rust
-
-Works badly on:
-
-- Javascript
 
 ## Install
 
