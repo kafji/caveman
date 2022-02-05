@@ -63,7 +63,7 @@
 				"variable.parameter",
 				"variable.other",
 				"keyword.operator",
-				"punctuation.definition.constant",
+				"punctuation.definition",
 			],
 			"settings": {
 				"foreground": "#fff",

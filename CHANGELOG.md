@@ -5,6 +5,7 @@
 Changes:
 
 - Improve support for Go, Typescript, and Elixir
+- Set color for punctuations (e.g. `:`, `"`, "[") to white
 
 ## [0.0.5] - 2021-04-16
 
