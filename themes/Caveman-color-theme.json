@@ -38,6 +38,7 @@
 		"breadcrumb.foreground": "#999",
 	},
 	"tokenColors": [
+		// Textmate scopes
 		{
 			"name": "Literal",
 			"scope": [
@@ -62,6 +63,7 @@
 				"variable.parameter",
 				"variable.other",
 				"keyword.operator",
+				"punctuation.definition.constant",
 			],
 			"settings": {
 				"foreground": "#fff",

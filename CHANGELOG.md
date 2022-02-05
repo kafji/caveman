@@ -4,7 +4,7 @@
 
 Changes:
 
-- Improve support for Go & Typescript
+- Improve support for Go, Typescript, and Elixir
 
 ## [0.0.5] - 2021-04-16
 
