@@ -63,7 +63,7 @@
 				"variable.parameter",
 				"variable.other",
 				"keyword.operator",
-				"punctuation.definition",
+				"punctuation",
 			],
 			"settings": {
 				"foreground": "#fff",
@@ -114,6 +114,7 @@
 			"scope": [
 				"comment",
 				"string.quoted.docstring",
+				"punctuation.definition.comment",
 			],
 			"settings": {
 				"foreground": "#aaa",
