@@ -62,6 +62,7 @@
 				"support.type.property-name",
 				"variable.parameter",
 				"variable.other",
+				"keyword.operator",
 			],
 			"settings": {
 				"foreground": "#fff",
