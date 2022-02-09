@@ -62,7 +62,6 @@
 				"support.type.property-name",
 				"variable.parameter",
 				"variable.other",
-				"keyword.operator",
 			],
 			"settings": {
 				"foreground": "#fff",
@@ -103,6 +102,7 @@
 				"entity.name.type.primitive",
 				"support.class",
 				"storage.type",
+				"constant.other",
 			],
 			"settings": {
 				"foreground": "#fc6",
