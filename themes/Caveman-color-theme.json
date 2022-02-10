@@ -104,6 +104,7 @@
 				"support.class",
 				"storage.type",
 				"constant.other",
+				"variable.other.generic-type",
 			],
 			"settings": {
 				"foreground": "#fc6",
