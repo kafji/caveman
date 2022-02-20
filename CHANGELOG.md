@@ -4,7 +4,8 @@
 
 Changes:
 
-- Improve support for Go, Typescript, Elixir, and Haskell
+- Improve support for Go, Typescript, Elixir, and Haskell.
+- Improve visiblity for highlighted text in some text boxes e.g. settings' search text box.
 
 ## [0.0.5] - 2021-04-16
 
