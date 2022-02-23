@@ -21,8 +21,8 @@
 		// https://code.visualstudio.com/api/references/theme-color#editor-colors
 		"editor.foreground": "#fff",
 		"editor.background": "#222",
-		"editor.selectionBackground": "#555",
-		"editor.selectionHighlightBackground": "#44444488",
+		"editor.selectionBackground": "#555555CC",
+		"editor.selectionHighlightBackground": "#444444CC",
 		"editor.wordHighlightBackground": "#00000000",
 		"editor.wordHighlightStrongBackground": "#00000000",
 		"editorUnnecessaryCode.opacity": "#000000ee",
