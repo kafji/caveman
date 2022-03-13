@@ -21,11 +21,11 @@
 		// https://code.visualstudio.com/api/references/theme-color#editor-colors
 		"editor.foreground": "#fff",
 		"editor.background": "#222",
-		"editor.selectionBackground": "#555555AA",
-		"editor.selectionHighlightBackground": "#444444AA",
+		"editor.selectionBackground": "#555555",
+		"editor.selectionHighlightBackground": "#444444a0",
 		"editor.wordHighlightBackground": "#00000000",
 		"editor.wordHighlightStrongBackground": "#00000000",
-		"editorUnnecessaryCode.opacity": "#000000ee",
+		"editorUnnecessaryCode.opacity": "#000000e0",
 		// Status Bar colors
 		// https://code.visualstudio.com/api/references/theme-color#status-bar-colors
 		"statusBar.background": "#000",
