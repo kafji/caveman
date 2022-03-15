@@ -21,11 +21,17 @@
 		// https://code.visualstudio.com/api/references/theme-color#editor-colors
 		"editor.foreground": "#fff",
 		"editor.background": "#222",
-		"editor.selectionBackground": "#555555",
-		"editor.selectionHighlightBackground": "#444444a0",
-		"editor.wordHighlightBackground": "#00000000",
-		"editor.wordHighlightStrongBackground": "#00000000",
-		"editorUnnecessaryCode.opacity": "#000000e0",
+		"editor.selectionBackground": "#555a",
+		"editor.selectionHighlightBackground": "#444a",
+		"editor.wordHighlightBackground": "#0000",
+		"editor.wordHighlightStrongBackground": "#0000",
+		"editorUnnecessaryCode.opacity": "#000",
+		"editorInlayHint.foreground": "#aaaa",
+		"editorInlayHint.background": "#0000",
+		"editorInlayHint.typeForeground": "#aaaa",
+		"editorInlayHint.typeBackground": "#0000",
+		"editorInlayHint.parameterForeground": "#aaaa",
+		"editorInlayHint.parameterBackground": "#0000",
 		// Status Bar colors
 		// https://code.visualstudio.com/api/references/theme-color#status-bar-colors
 		"statusBar.background": "#000",
