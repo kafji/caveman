@@ -5,7 +5,7 @@
     "version": "0.0.6",
     "publisher": "kafji",
     "engines": {
-        "vscode": "^1.63.0"
+        "vscode": "^1.65.0"
     },
     "license": "LICENSE.txt",
     "categories": [
