@@ -1,7 +1,7 @@
 {
     "name": "caveman",
     "displayName": "Caveman",
-    "description": "Vscode theme primarily for highlighting Rust code.",
+    "description": "Vscode theme loosely inspired by Monokai & Zenburn.",
     "version": "0.0.7",
     "publisher": "kafji",
     "engines": {
