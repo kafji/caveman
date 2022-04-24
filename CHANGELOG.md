@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [0.0.7] - 2022-04-24
+
 Changes:
 
 - Fix `enum` and `struct` keywords not colored correctly (green) with latest version of Rust-analyzer.
@@ -43,6 +45,7 @@ Changes:
 - Dark theme loosely inspired by Monokai & Zenburn.
 
 [Unreleased]: https://github.com/kafji/caveman/tree/master
+[0.0.7]: https://github.com/kafji/caveman/tree/v0.0.7
 [0.0.6]: https://github.com/kafji/caveman/tree/v0.0.6
 [0.0.5]: https://github.com/kafji/caveman/tree/v0.0.5
 [0.0.4]: https://github.com/kafji/caveman/tree/v0.0.4
