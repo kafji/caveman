@@ -6,7 +6,7 @@ Changes:
 
 - Fix `enum` and `struct` keywords not colored correctly (green) with latest version of Rust-analyzer.
 
-## [0.0.6] - 2022-04-XX
+## [0.0.6] - 2022-04-20
 
 Changes:
 

@@ -1,6 +1,6 @@
 # Caveman
 
-[![Marketplace](https://img.shields.io/badge/Marketplace-informational)](https://marketplace.visualstudio.com/items?itemName=kafji.caveman)
+[![Marketplace](https://img.shields.io/badge/Marketplace-000)](https://marketplace.visualstudio.com/items?itemName=kafji.caveman)
 
 [Vscode](https://code.visualstudio.com/) theme primarily for highlighting Rust code. Loosely inspired by Monokai & Zenburn.
 
