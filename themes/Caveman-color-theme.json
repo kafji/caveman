@@ -108,7 +108,6 @@
 				"entity.name.type",
 				"entity.name.type.primitive",
 				"support.class",
-				"storage.type",
 				"constant.other",
 				"variable.other.generic-type",
 			],

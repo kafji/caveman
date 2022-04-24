@@ -4,6 +4,12 @@
 
 Changes:
 
+- Fix `enum` and `struct` keywords not colored correctly (green) with latest version of Rust-analyzer.
+
+## [0.0.6] - 2022-04-XX
+
+Changes:
+
 - Improve support for Go, Typescript, Elixir, and Haskell.
 - Improve visiblity for highlighted text in some text boxes e.g. settings' search text box.
 
@@ -37,6 +43,7 @@ Changes:
 - Dark theme loosely inspired by Monokai & Zenburn.
 
 [Unreleased]: https://github.com/kafji/caveman/tree/master
+[0.0.6]: https://github.com/kafji/caveman/tree/v0.0.6
 [0.0.5]: https://github.com/kafji/caveman/tree/v0.0.5
 [0.0.4]: https://github.com/kafji/caveman/tree/v0.0.4
 [0.0.3]: https://github.com/kafji/caveman/tree/v0.0.3
