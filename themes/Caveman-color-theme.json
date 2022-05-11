@@ -26,11 +26,11 @@
 		"editor.wordHighlightBackground": "#0000",
 		"editor.wordHighlightStrongBackground": "#0000",
 		"editorUnnecessaryCode.opacity": "#000",
-		"editorInlayHint.foreground": "#aaaa",
+		"editorInlayHint.foreground": "#9999",
 		"editorInlayHint.background": "#0000",
-		"editorInlayHint.typeForeground": "#aaaa",
+		"editorInlayHint.typeForeground": "#9999",
 		"editorInlayHint.typeBackground": "#0000",
-		"editorInlayHint.parameterForeground": "#aaaa",
+		"editorInlayHint.parameterForeground": "#9999",
 		"editorInlayHint.parameterBackground": "#0000",
 		// Status Bar colors
 		// https://code.visualstudio.com/api/references/theme-color#status-bar-colors

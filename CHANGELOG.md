@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+Changes:
+
+- Reduce inlay hints visibility.
+
 ## [0.0.7] - 2022-04-24
 
 Changes:
