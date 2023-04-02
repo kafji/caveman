@@ -77,12 +77,12 @@
 		{
 			"name": "Keyword",
 			"scope": [
+				"keyword",
 				"keyword.control",
 				"keyword.other",
 				"storage.modifier",
 				"storage.type",
 				"variable.language",
-				"keyword",
 			],
 			"settings": {
 				"foreground": "#cf6",
@@ -103,12 +103,12 @@
 		{
 			"name": "Type",
 			"scope": [
+				"constant.other",
 				"entity.name.class",
 				"entity.name.tag",
 				"entity.name.type",
 				"entity.name.type.primitive",
 				"support.class",
-				"constant.other",
 				"variable.other.generic-type",
 			],
 			"settings": {

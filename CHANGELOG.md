@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [0.0.8] - 2023-04-02
+
 Changes:
 
 - Reduce inlay hints visibility.
@@ -49,6 +51,7 @@ Changes:
 - Dark theme loosely inspired by Monokai & Zenburn.
 
 [Unreleased]: https://github.com/kafji/caveman/tree/master
+[0.0.8]: https://github.com/kafji/caveman/tree/v0.0.8
 [0.0.7]: https://github.com/kafji/caveman/tree/v0.0.7
 [0.0.6]: https://github.com/kafji/caveman/tree/v0.0.6
 [0.0.5]: https://github.com/kafji/caveman/tree/v0.0.5

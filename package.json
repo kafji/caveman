@@ -2,7 +2,7 @@
     "name": "caveman",
     "displayName": "Caveman",
     "description": "Vscode theme loosely inspired by Monokai & Zenburn.",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "publisher": "kafji",
     "engines": {
         "vscode": "^1.65.0"
